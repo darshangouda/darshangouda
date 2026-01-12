@@ -16,23 +16,6 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 
 ---
 
-## 💻 Skills
-
-**Languages & Frameworks**  
-Java ██████████ 90%
-Spring Boot █████████ 85%
-Spring █████████ 85%
-Data JPA ████████ 80%
-
-**Databases & Tools**  
-MySQL █████████ 85%
-PostgreSQL ████████ 80%
-Git/GitHub ██████████ 90%
-REST APIs █████████ 85%
-
-
----
-
 ## 🌟 Projects I’m Proud Of
 - **Streamliner** – Internal project to streamline business processes using Spring Boot & Data JPA.  
 - **StoryTale App** – A React Native app for creating stories with AI-generated images.  
@@ -48,8 +31,8 @@ REST APIs █████████ 85%
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/darshangouda/))  
+- [Email](mailto:darshangouda.s.patil@gmail.com)
 
 ---
 
