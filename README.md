@@ -31,7 +31,7 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/darshangouda/))  
+- [LinkedIn](https://www.linkedin.com/in/darshangouda/)  
 - [Email](mailto:darshangouda.s.patil@gmail.com)
 
 ---
