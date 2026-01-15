@@ -53,3 +53,6 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 - Believes **discipline + intuition = success**  
 
 ---
+
+
+<iframe width="855" height="481" src="https://www.youtube.com/embed/j-rDSmQ_NdU" title="कुंडली के जिस भाव में मेष राशि होती है, उस भाव की किस्मत जातक खुद लिखता है#astrology " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
