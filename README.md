@@ -54,3 +54,6 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 - Believes **discipline + intuition = success**  
 
 ---
+
+📄 [Download My Resume (PDF)]([https://zenodo.org/records/17790079])
+
