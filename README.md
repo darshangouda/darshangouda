@@ -16,8 +16,7 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 
 ---
 
-## 🌟 Projects I’m Proud Of
-- **Streamliner** – Internal project to streamline business processes using Spring Boot & Data JPA.  
+## 🌟 Projects I’m Proud Of  
 - **StoryTale App** – A React Native app for creating stories with AI-generated images.  
 
 ---
