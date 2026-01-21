@@ -55,5 +55,5 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 
 ---
 
-📄 [Download My Resume (PDF)]([https://zenodo.org/records/17790079/files/Base_Conversion_Algorithm.pdf])
+📄 [Download My Resume (PDF)](https://zenodo.org/records/17790079/files/Base_Conversion_Algorithm.pdf)
 
