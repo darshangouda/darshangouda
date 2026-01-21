@@ -56,11 +56,10 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 ---
 
 <!--
+---
 [![Resume Preview](https://www.equinetmedia.com/hubfs/How-to-find-b2b-blog-images.png)](https://zenodo.org/records/17790079/files/Base_Conversion_Algorithm.pdf)
+---
 -->
 
 
-[![Resume Preview](https://media.licdn.com/dms/image/v2/D4D35AQHMn4Rn9cE2cw/profile-framedphoto-shrink_200_200/B4DZuX78RAG8AY-/0/1767780631858?e=1769630400&v=beta&t=NGREjmUBNjT4-I7O7K3m2YkeNdOLkczY1k6kYH9KiDE)]
-
----
 
