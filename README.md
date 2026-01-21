@@ -2,7 +2,7 @@
 
 > “Turning coffee ☕ and code 💻 into scalable solutions, one commit at a time.”
 
-I’m a **Backend Developer** with 2+ years of experience in **Java, Spring Boot, and Data JPA**.  
+I’m a **Backend Developer** with 2.6 years of experience in **Java, Spring Boot, and Data JPA**.  
 I love building clean, scalable systems, exploring AI, and diving into astrology when I need life insights.  
 
 ---
@@ -37,7 +37,9 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 ---
 
 ## 📊 GitHub Stats
+<!--
 ![Darshangouda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshangouda&show_icons=true&theme=tokyonight&count_private=true)  
+-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshangouda&layout=compact&theme=tokyonight)  
 
