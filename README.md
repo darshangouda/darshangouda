@@ -61,6 +61,6 @@ I love building clean, scalable systems, exploring AI, and diving into astrology
 ---
 -->
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--000X--XXXX--XXXX-green?logo=orcid)](https://orcid.org/0000-000X-XXXX-XXXX)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--000X--XXXX--XXXX-green?logo=orcid)](https://orcid.org/0009-0002-3638-0220)
 
 
