@@ -2,7 +2,7 @@
 
 > “Turning coffee ☕ and code 💻 into scalable solutions, one commit at a time.”
 
-I’m a **Backend Developer** with 2.6 years of experience in **Java, Spring Boot, and Data JPA**.  
+I’m a **Backend Developer** with 3 years of experience in **Java, Spring Boot, and Data JPA**.  
 I love building clean, scalable systems, exploring AI, and diving into astrology when I need life insights.  
 
 ---
